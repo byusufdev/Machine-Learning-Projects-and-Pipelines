@@ -25,5 +25,5 @@ A growing collection of end-to-end ML projects built in Python.
 
 ## Repository Structure
 ```text
-├── 01_titanic_survival_pipeline/    # End-to-end binary classification with leak-free Scikit-Learn pipelines
+├── ML Project 1 - Titanic.ipynb/    # End-to-end binary classification with leak-free Scikit-Learn pipelines
 └── README.md
