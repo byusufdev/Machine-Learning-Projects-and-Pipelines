@@ -13,7 +13,7 @@ A growing collection of end-to-end ML projects built in Python.
 
 ## Projects
 
-### 1. [Titanic Survival Classification](./01_titanic_survival_pipeline/)
+### 1. [Titanic Survival Classification](ML Project 1 - Titanic.ipynb)
 * **Dataset:** OpenML `titanic` (v1)
 * **Problem Type:** Binary Classification
 * **Workflow:** Removed post-disaster leakage features, performed a stratified 80/20 train-test split, and wrapped median/mode imputation, standard scaling, and one-hot encoding inside a Scikit-Learn `ColumnTransformer` to prevent data leakage.
